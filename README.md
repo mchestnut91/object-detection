@@ -1,6 +1,6 @@
 # object-detection
 
-This repository contains resources that go along with the "Introduction to Object Detection with Python" tech talk for Blue Compass' Hackathon to Combat Human Trafficking.
+This repository contains resources that go along with the "Introduction to Object Detection with Python" tech talk for Blue Compass' [Hackathon to Combat Human Trafficking.](https://expeditionhacks.com/combating-human-trafficking-2020/)
 
 ## Installation
 
